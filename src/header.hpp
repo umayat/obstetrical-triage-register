@@ -2,7 +2,7 @@
  * header.hpp
  *
  *  Created on: Oct 30, 2015
- *      Author: Uzair Mayat (500599647) & Muhammad Noor (500589087)
+ *      Author: Uzair Mayat & Muhammad Noor
  */
 
 #ifndef HEADER_HPP_

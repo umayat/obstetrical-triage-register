@@ -1,6 +1,6 @@
 //============================================================================
 // Name        : Lab6.cpp
-// Author      : Uzair Mayat (500599647) & Muhammad Noor (500589087)
+// Author      : Uzair Mayat & Muhammad Noor
 // Version     :
 // Copyright   : Your copyright notice
 // Description : Lab 6: Obstetrical Triange Register
